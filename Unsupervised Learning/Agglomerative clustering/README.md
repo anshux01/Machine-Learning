@@ -36,17 +36,7 @@ The project follows the **CRISP-ML(Q)** methodology, ensuring structured deliver
 - **United Airlines** dominates passenger traffic, followed by American, SkyWest, and Delta.  
 - Passenger traffic is **seasonal** with peaks in July–August and December.  
 - **Terminal allocation** is uneven → potential for optimization.  
-- Passenger demand grew consistently till 2015 (2016 dip due to incomplete data).  
-
-## 📸 Sample Visualizations
-- Dendrogram (Hierarchical Clustering)
-- <img width="555" height="441" alt="image" src="https://github.com/user-attachments/assets/67501c15-f9ca-4a2e-944b-4ff9a442e2d1" />
-
-- Top Airlines by Passenger Count (Pie Chart)
-- <img width="613" height="409" alt="image" src="https://github.com/user-attachments/assets/cc54be94-5370-4b01-976d-7dacc6f7de3a" />
-
-- Seasonal Trends (Bar Plot)
-- <img width="554" height="453" alt="image" src="https://github.com/user-attachments/assets/d549e7ab-115e-4404-b5d3-698e9131e059" />
+- Passenger demand grew consistently till 2015 (2016 dip due to incomplete data).
 
 ## 📜 Project Charter
 For detailed documentation including:
@@ -58,6 +48,18 @@ For detailed documentation including:
 - **Data Dictionary**
 
 👉 Please check the [Project_Charter.md](./Project_Charter.md) file in this repository.
+
+
+## 📸 Sample Visualizations
+- Dendrogram (Hierarchical Clustering)
+- <img width="555" height="441" alt="image" src="https://github.com/user-attachments/assets/67501c15-f9ca-4a2e-944b-4ff9a442e2d1" />
+
+- Top Airlines by Passenger Count (Pie Chart)
+- <img width="613" height="409" alt="image" src="https://github.com/user-attachments/assets/cc54be94-5370-4b01-976d-7dacc6f7de3a" />
+
+- Seasonal Trends (Bar Plot)
+- <img width="554" height="453" alt="image" src="https://github.com/user-attachments/assets/d549e7ab-115e-4404-b5d3-698e9131e059" />
+
 
 
 ## 🚀 How to Run
