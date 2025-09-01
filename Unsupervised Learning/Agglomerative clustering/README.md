@@ -48,6 +48,16 @@ The project follows the **CRISP-ML(Q)** methodology, ensuring structured deliver
 - Seasonal Trends (Bar Plot)
 - <img width="554" height="453" alt="image" src="https://github.com/user-attachments/assets/d549e7ab-115e-4404-b5d3-698e9131e059" />
 
+## 📜 Project Charter
+For detailed documentation including:
+
+- **Business Problem**
+- **High-Level Solution**
+- **Objectives & Constraints**
+- **Success Criteria** (Business, ML, Economic)
+- **Data Dictionary**
+
+👉 Please check the [Project_Charter.md](./Project_Charter.md) file in this repository.
 
 
 ## 🚀 How to Run
